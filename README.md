@@ -1,4 +1,7 @@
-# {{name}}
+# Random Quote Generator
+> Built in cljs (using shadow-cljs and reagent)
+
+![Screenshot](./Screenshot.png)
 
 ## Run
 
